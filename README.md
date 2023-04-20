@@ -147,23 +147,20 @@ Software
 
 Manual de instalacion
 
-https://drive.google.com/file/d/1G2XaSATIteavrtfh6WTmYXRlRCgAbTWt/view?usp=sharing
+[Manual de instalcion](https://drive.google.com/file/d/1G2XaSATIteavrtfh6WTmYXRlRCgAbTWt/view?usp=sharing)
 
 Manual de usuario
-
-https://drive.google.com/file/d/12evns4C6fMkqp6i_OTGUFW9K_hOfC91H/view?usp=sharing
+[Manual de usuario](https://drive.google.com/file/d/12evns4C6fMkqp6i_OTGUFW9K_hOfC91H/view?usp=sharing)
 
 # Codigo fuente 
 
 
 # Casos de prueba 
 
-
 Pruebas necesarias para probar la funcionalidad del CheckIn de la aplicación mediante el código QR de un empleado.
-Casos de prueba https://docs.google.com/spreadsheets/d/1mwLT8bF0Y0MHDZP8omcphYW4_Qvtk7hS/edit#gid=718245581
+[Casoso de prueba](https://docs.google.com/spreadsheets/d/1mwLT8bF0Y0MHDZP8omcphYW4_Qvtk7hS/edit#gid=718245581)
 
 # Organigrama dek equipo
 ![image](https://user-images.githubusercontent.com/126131443/233459655-14a0a53f-475a-4cd1-8203-815960242c38.png)
-
 
 
