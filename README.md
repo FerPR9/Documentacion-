@@ -55,4 +55,42 @@ Administrar asisitencia
 # Diagrama de componentes 
 ![Diagrma de componentes](https://user-images.githubusercontent.com/126131443/233441275-751a5d50-a587-4dd0-b39f-a01541d070b0.jpeg)
 
+# Modelo de datos 
+
+Check-In
+![image](https://user-images.githubusercontent.com/126131443/233442200-061d5143-9d9e-4238-a5f3-18432cfeaaf8.png)
+
+Empleado
+![image](https://user-images.githubusercontent.com/126131443/233442300-1f37df09-c050-4547-bb01-d24a1f1a0971.png)
+
+
+La colección de “Empleado” almacenara la información de los empleados registrados en los siguientes campos: 
+*	IdEmpleado: es el id de identificador del empelado.
+*	Nombre: Nombre del empelado del gimnasio. 
+*	Edad: La edad del empleado del gimnasio.
+*	Rol: Rol o actividad que desempeña el empleado dentro gimnasio (puede tener más de un rol).
+*	Teléfono: Teléfono de contacto del empleado del gimnasio (puede tener más de un teléfono).
+*	Sueldo: Cantidad de dinero que se le paga al empleado. 
+*	Turno: Horario de trabajo del empleado (Matutino, Vespertino).
+*	Correo: Dirección de correo electrónico de contacto del empleado. 
+*	Password: Contraseña de usuario.
+
+
+La colección de “Rol” almacena información de los roles asignados y desempeñados por los empleados: 
+
+*	Nombre: Nombre del empleado que desempeña la actividad en el gimnasio. 
+*	Descripción: Descripción de las actividades que desempeña la persona con el rol asignado. 
+*	Privilegios: Privilegios asignados a partir de los roles, es decir las actividades que puede realizar en el sistema según su rol. 
+
+La colección “Check-In” almacena información de los registros de asistencia de los empleados del gimnasio. 
+
+*	IdEmpleado: Identificados o clave única de cada empleado del gimnasio. 
+*	Fecha: Día, mes y año en que se realizan los registros de asistencia de los empelados del gimnasio. 
+*	Hora: Hora de entrada y salida en que se realiza el registro en el check- in por medio del escaneo del Qr. 
+*	Tipo: Hora de entrada o salida de registro de asistencia. 
+
+
+# Estandares 
+
+
 
