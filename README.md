@@ -142,3 +142,7 @@ Software
 * Sistema operativo Windows 7 o superior, macOS o Linux.
 * Node.js versión 18.15.0 LTS.
 * Angular CLI versión 14.0.2.
+
+# Manuales 
+
+https://drive.google.com/drive/folders/1-foA68o8QJnFsT180dB9L3M67foLXv6Y
