@@ -78,12 +78,6 @@ La colección de “Empleado” almacenara la información de los empleados regi
 *	Password: Contraseña de usuario.
 
 
-La colección de “Rol” almacena información de los roles asignados y desempeñados por los empleados: 
-
-*	Nombre: Nombre del empleado que desempeña la actividad en el gimnasio. 
-*	Descripción: Descripción de las actividades que desempeña la persona con el rol asignado. 
-*	Privilegios: Privilegios asignados a partir de los roles, es decir las actividades que puede realizar en el sistema según su rol. 
-
 La colección “Check-In” almacena información de los registros de asistencia de los empleados del gimnasio. 
 
 *	IdEmpleado: Identificados o clave única de cada empleado del gimnasio. 
