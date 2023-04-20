@@ -123,4 +123,5 @@ Documentar el código de manera clara y concisa para facilitar el mantenimiento 
 Siguiendo este estándar de programación, se puede desarrollar aplicaciones web robustas, escalables y seguras utilizando el stack MEAN.
 
 
-
+# Diagrama de Gantt 
+![image](https://user-images.githubusercontent.com/126131443/233446239-3ec7b9a8-1fe0-4e76-b1d2-741c28034700.png)
