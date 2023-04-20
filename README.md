@@ -1,6 +1,6 @@
 # Documentacion-
 
-![Uploading image.png…]()
+
 
 
 Sistema de Gestión de Gimnasio - Sportacus Gym - Módulo CheckIn
