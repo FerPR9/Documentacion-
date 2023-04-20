@@ -133,12 +133,12 @@ Requisitos de instalacion
 ara instalar el proyecto en un entorno de desarrollo y posteriormente hacer uso de este, es necesario contar con los siguientes requerimientos de software y hardware:
 
 Hardware
-Procesador de 64 bits con velocidad de reloj de 1 GHz o superior.
-4 GB de memoria RAM o superior.
-Al menos 10 GB de espacio libre en disco duro.
+* Procesador de 64 bits con velocidad de reloj de 1 GHz o superior.
+* 4 GB de memoria RAM o superior.
+* Al menos 10 GB de espacio en el disco duro.
 
 Software
 
-Sistema operativo Windows 7 o superior, macOS o Linux.
-Node.js versión 18.15.0 LTS.
-Angular CLI versión 14.0.2.
+* Sistema operativo Windows 7 o superior, macOS o Linux.
+* Node.js versión 18.15.0 LTS.
+* Angular CLI versión 14.0.2.
