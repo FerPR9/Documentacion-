@@ -85,6 +85,10 @@ La colección “Check-In” almacena información de los registros de asistenci
 *	Hora: Hora de entrada y salida en que se realiza el registro en el check- in por medio del escaneo del Qr. 
 *	Tipo: Hora de entrada o salida de registro de asistencia. 
 
+# Diagrama de clases 
+![image](https://user-images.githubusercontent.com/126131443/233445150-10e5f5ed-a357-4328-bcb9-c9764cfffd81.png)
+
+
 
 # Estandares 
 
