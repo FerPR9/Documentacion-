@@ -58,9 +58,11 @@ Administrar asisitencia
 # Modelo de datos 
 
 Check-In
+
 ![image](https://user-images.githubusercontent.com/126131443/233442200-061d5143-9d9e-4238-a5f3-18432cfeaaf8.png)
 
 Empleado
+
 ![image](https://user-images.githubusercontent.com/126131443/233442300-1f37df09-c050-4547-bb01-d24a1f1a0971.png)
 
 
