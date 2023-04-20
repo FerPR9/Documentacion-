@@ -40,6 +40,16 @@ Adminsitrar asitencia
 
 ![image](https://user-images.githubusercontent.com/126131443/233437147-a65530b9-29bb-413a-9279-cef02965d18a.png)
 
+# Historias de usuario
+
+![image](https://user-images.githubusercontent.com/126131443/233437470-9952145a-14dc-4202-87be-6008f4cdd87e.png)
+
+Administrar asisitencia 
+
+![image](https://user-images.githubusercontent.com/126131443/233437564-17bfd063-4e48-4756-a868-0555f9fe3b23.png)
+
 
 # Modelo vista controlador 
 ![image](https://user-images.githubusercontent.com/126131443/233433265-8110f9a5-854c-420b-b611-1e959d9b800e.png)
+
+# Diagrama de componentes 
