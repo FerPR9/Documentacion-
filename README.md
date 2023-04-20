@@ -30,5 +30,16 @@ Implementar un sistema de control de asistencias mediante la generación y escan
 
 ![image](https://user-images.githubusercontent.com/126131443/233436758-1a76bd6a-932a-4a1e-abcb-977325b4a86d.png)
 
+# Diagra de actividad 
+
+Registar asistencia 
+
+![image](https://user-images.githubusercontent.com/126131443/233437072-5e4f456e-7239-48fc-850f-4c79a025f6e7.png)
+
+Adminsitrar asitencia 
+
+![image](https://user-images.githubusercontent.com/126131443/233437147-a65530b9-29bb-413a-9279-cef02965d18a.png)
+
+
 # Modelo vista controlador 
 ![image](https://user-images.githubusercontent.com/126131443/233433265-8110f9a5-854c-420b-b611-1e959d9b800e.png)
