@@ -89,8 +89,38 @@ La colección “Check-In” almacena información de los registros de asistenci
 ![image](https://user-images.githubusercontent.com/126131443/233445150-10e5f5ed-a357-4328-bcb9-c9764cfffd81.png)
 
 
-
 # Estandares 
+
+Se presenta un posible estándar de programación para el desarrollo de aplicaciones web utilizando el stack MEAN (MongoDB, Express.js, Angular y Node.js):
+
+1.- Convenciones de nomenclatura:
+
+Utilizar camelCase para los nombres de variables, funciones y métodos.
+Utilizar PascalCase para los nombres de clases y componentes.
+Utilizar guiones bajos para los nombres de las rutas de la API y las colecciones de la base de datos.
+Utilizar nombres descriptivos y significativos para las variables, funciones y métodos.
+
+2.- Estructura de la aplicación:
+
+Utilizar un enfoque basado en componentes para la estructura de la aplicación Angular.
+Utilizar la arquitectura de microservicios para separar diferentes componentes y servicios de la aplicación.
+
+3.- Codificación:
+
+Utilizar TypeScript como lenguaje de programación para mejorar la legibilidad y la seguridad del código.
+Utilizar patrones de diseño y principios de SOLID para escribir código escalable y mantenible.
+Utilizar pruebas unitarias y de integración para garantizar la calidad y la robustez del código.
+Utilizar herramientas de linting y formateo de código para garantizar la coherencia y la legibilidad del código.
+
+4.- Rendimiento:
+
+Utilizar técnicas de caching y almacenamiento en caché para reducir la carga en el servidor y mejorar el rendimiento de la aplicación.
+Optimizar la carga y la descarga de recursos y datos para reducir el tiempo de respuesta de la aplicación.
+
+5.- Documentación:
+
+Documentar el código de manera clara y concisa para facilitar el mantenimiento y la comprensión del código.
+Siguiendo este estándar de programación, se puede desarrollar aplicaciones web robustas, escalables y seguras utilizando el stack MEAN.
 
 
 
