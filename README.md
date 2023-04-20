@@ -155,6 +155,7 @@ Software
 # Casos de prueba 
 
 Pruebas necesarias para probar la funcionalidad del CheckIn de la aplicación mediante el código QR de un empleado.
+
 [Casoso de prueba](https://docs.google.com/spreadsheets/d/1mwLT8bF0Y0MHDZP8omcphYW4_Qvtk7hS/edit#gid=718245581)
 
 # Organigrama dek equipo
