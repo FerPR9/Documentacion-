@@ -53,5 +53,6 @@ Administrar asisitencia
 ![image](https://user-images.githubusercontent.com/126131443/233433265-8110f9a5-854c-420b-b611-1e959d9b800e.png)
 
 # Diagrama de componentes 
+![Diagrma de componentes](https://user-images.githubusercontent.com/126131443/233441275-751a5d50-a587-4dd0-b39f-a01541d070b0.jpeg)
 
 
