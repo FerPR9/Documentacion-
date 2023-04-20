@@ -1,6 +1,9 @@
 # Documentacion
 
+# Integrantes 
 
+* Marisol Nuñes Monasterio 
+* Maria Fernanda Palacios Rangel 
 
 
 
