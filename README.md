@@ -144,5 +144,8 @@ Software
 * Angular CLI versión 14.0.2.
 
 # Manuales 
+
+Manual de instalacion
 https://drive.google.com/file/d/1G2XaSATIteavrtfh6WTmYXRlRCgAbTWt/view?usp=sharing
+Manual de usuario
 https://drive.google.com/file/d/12evns4C6fMkqp6i_OTGUFW9K_hOfC91H/view?usp=sharing
